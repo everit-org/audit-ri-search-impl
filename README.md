@@ -1,2 +1,2 @@
-# audit-ri-search-impl
-The reference implementation of the audit-ri-search-api.
+# audit-search-ri
+The reference implementation of the audit-search-api.
